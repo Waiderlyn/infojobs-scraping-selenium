@@ -1,6 +1,9 @@
 # infojobs-scraping-selenium
  "Explore Python scripts using Selenium to scrape job data from InfoJobs. Extract job titles, locations, descriptions, companies, and salaries. Automate data retrieval for analysis and enhance your job search experience."
 
+# Description of the Data Cleaning and Visualization File
+This file contains the code used to clean and visualize the data extracted from the InfoJobs scraper. After obtaining the job data, a process of cleaning and organizing the data is performed to obtain a suitable format. Finally, data visualization techniques are applied using tools such as Matplotlib or Seaborn to create charts and visualizations that provide useful insights into trends and patterns in the jobs extracted from InfoJobs.
+
 # Features
 * Automatically logs into InfoJobs with provided credentials.
 * Searches for jobs across Spain or in a specified city.
